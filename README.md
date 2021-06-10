@@ -3,10 +3,10 @@ A open-source tiny 4 bit CPU project! The goal of this project is to build a tin
 ![image](https://user-images.githubusercontent.com/33582457/121453614-0e14f100-c967-11eb-8a31-3ae4417b45b1.png)
 
 ----
-## Inspiration for the Project 
-This cpu is based on the BenEater 8-bit computer (https://eater.net/8bit/schematics)
 
 ## Instruction Set
+Since the computer is only using 4-bits to address the memory, we are limited to 16 possible operations. These operations are listed below.
+
 ```
 --- ALU
 
@@ -36,3 +36,14 @@ This cpu is based on the BenEater 8-bit computer (https://eater.net/8bit/schemat
 # hlt
 
 ```
+
+## General Parts
+```
+
+
+```
+
+## Inspiration for the Project 
+This cpu is based on the BenEater 8-bit computer (https://eater.net/8bit/schematics)
+![image](https://user-images.githubusercontent.com/33582457/121454319-32250200-c968-11eb-96ae-d7bbfd19e3a0.png)
+
