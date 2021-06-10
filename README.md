@@ -9,6 +9,7 @@ This cpu is based on the BenEater 8-bit computer (https://eater.net/8bit/schemat
 ## Instruction Set
 ```
 --- ALU
+
 # add
 # sub
 # inc
