@@ -5,3 +5,33 @@ A open-source tiny 4 bit CPU project! The goal of this project is to build a tin
 ----
 ## Inspiration for the Project 
 This cpu is based on the BenEater 8-bit computer (https://eater.net/8bit/schematics)
+
+## Instruction Set
+```
+--- ALU
+# add
+# sub
+# inc
+# dec
+
+--- JUMP
+
+# jmp
+# jc
+# jz
+# jnc
+# jnz
+
+--- REGISTERS
+
+# lda
+# ldb
+# sta
+# stb
+
+--- MISC
+
+# nop
+# hlt
+
+```
