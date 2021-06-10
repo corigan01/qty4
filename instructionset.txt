@@ -1,0 +1,16 @@
+0 - add
+1 - sub
+2 - lda
+3 - ldb
+4 - sta
+5 - stb
+6 - out
+7 - jmp
+8 - jc
+9 - jz
+10 - inca
+11 - deca
+12 - hlt
+13 - nop
+14 - jnz
+15 - jnc
